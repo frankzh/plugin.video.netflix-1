@@ -1,3 +1,11 @@
+v1.8.0 (2020-08-xx)
+-Reimplemented menus "All movies", "All TV Shows", "Browse subgenres"
+-Added new search option "By genre/subgenre ID"
+-Added sort order setting for search history (Last used or A-Z)
+-Fixed Previous/Next page buttons on alphabetically sorted lists
+-Fixed regression in http IPC switch setting
+-Minor fixes
+
 v1.7.1 (2020-08-12)
 -Added Profiles menu with new profiles context menus:
    * Set for auto-selection
